@@ -1,0 +1,9 @@
+/* Import Tailwind CSS layers. These directives are processed by
+   Tailwind to generate the necessary CSS. You can add additional
+   global styles after these imports if required. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional global styles can go here. For example, you can set
+   default font sizes, colours or other utility classes. */
